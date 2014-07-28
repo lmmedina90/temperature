@@ -1,3 +1,5 @@
+
+
 # todays_temperature = 80
 
 # if todays_temperature < 85
@@ -21,19 +23,6 @@
 # if the temperature is greater than or equal to 
 # 50.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Define method, state "temp" as argument
 
 def going_hiking(temp)
@@ -45,7 +34,7 @@ def going_hiking(temp)
 
 # Output string that interpolates "temp"
 
-		puts "#{temp} is perfect for hiking!"
+		puts "#{temp} is pretty good for hiking!"
 
 # Create second if statement that checks for 
 # whether temperature is < 50
